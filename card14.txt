@@ -1,0 +1,9 @@
+Car,11,11,h
+Car,16,21,v
+Car,06,51,h
+Truck,05,53,h
+Car,09,56,v
+Truck,02,24,h
+Car,01,33,h
+Car,12,35,v
+Car,08,13,v
